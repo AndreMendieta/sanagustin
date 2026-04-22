@@ -698,5 +698,18 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://drive.google.com/file/d/1_nj7coqZR-7DKgzCX3AlbewtTJukKm61/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "Appi Solo",
+    "descripcion": "Esta es una app enfocada en venta de ropa",
+    "icono": "https://cdn-icons-png.flaticon.com/512/1818/1818806.png",
+    "grupo": "viernes",
+    "fecha": "2026-04-26",
+    "id": 1,
+    "integrantes": [
+      "julian garcia"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1k_Swneq46ZZOa7noxKb2tI8pDxZxm744/view?usp=drive_link"
   }
 ]
