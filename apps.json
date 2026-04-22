@@ -684,5 +684,19 @@
     ],
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
+  },
+  {
+    "nombreapp": "Game ideas",
+    "descripcion": "Esta es una app de recomendendaciones de juegos multiplataforma.",
+    "icono": "https://img.icons8.com/nolan/1200/play-games.jpg",
+    "grupo": "viernes",
+    "fecha": "2026-04-26",
+    "id": 1,
+    "integrantes": [
+      "julian garcia",
+      "Andres mendieta"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://drive.google.com/file/d/1_nj7coqZR-7DKgzCX3AlbewtTJukKm61/view?usp=drive_link"
   }
 ]
